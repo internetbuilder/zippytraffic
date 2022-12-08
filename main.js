@@ -10,7 +10,7 @@ document.querySelector('#app').innerHTML = `
     
     <h1>ZippyTraffic!</h1>
     <div class="card">
-    <a href="https://bit.ly/zippytraffic" target="_blank">
+    <a href="https://bit.ly/zippytraffic" target="">
     <button id="counter" type="button"></button>
   </a>
      
